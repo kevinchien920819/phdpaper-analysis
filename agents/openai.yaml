@@ -1,0 +1,4 @@
+interface:
+  display_name: "PhD Paper Analysis"
+  short_description: "Traditional Chinese PhD paper reports"
+  default_prompt: "Use $phd-paper-analysis to produce an exhaustive Traditional Chinese HTML analysis of this paper: [PDF, DOI, or URL]."
